@@ -13,6 +13,7 @@
 		029806AB1AD910D900680A91 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029806AA1AD910D900680A91 /* Images.xcassets */; };
 		029806AE1AD910D900680A91 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 029806AC1AD910D900680A91 /* LaunchScreen.xib */; };
 		029806BA1AD910D900680A91 /* FWUNOTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029806B91AD910D900680A91 /* FWUNOTests.swift */; };
+		D25CEE1F1ADA6A140092657F /* unor_design.png in Resources */ = {isa = PBXBuildFile; fileRef = D25CEE1E1ADA6A140092657F /* unor_design.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		029806B31AD910D900680A91 /* FWUNOTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FWUNOTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		029806B81AD910D900680A91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		029806B91AD910D900680A91 /* FWUNOTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FWUNOTests.swift; sourceTree = "<group>"; };
+		D25CEE1E1ADA6A140092657F /* unor_design.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unor_design.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		029806A11AD910D900680A91 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D25CEE1E1ADA6A140092657F /* unor_design.png */,
 				029806A21AD910D900680A91 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				029806A91AD910D900680A91 /* Main.storyboard in Resources */,
 				029806AE1AD910D900680A91 /* LaunchScreen.xib in Resources */,
 				029806AB1AD910D900680A91 /* Images.xcassets in Resources */,
+				D25CEE1F1ADA6A140092657F /* unor_design.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +417,7 @@
 				029806BF1AD910D900680A91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		029806C01AD910D900680A91 /* Build configuration list for PBXNativeTarget "FWUNOTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +426,7 @@
 				029806C21AD910D900680A91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
